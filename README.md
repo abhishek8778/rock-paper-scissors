@@ -1,4 +1,4 @@
-try all new interactive user interface of rock paper scissor game 
+Try a all new interactive user interface of rock paper scissor game 
 
 
 
